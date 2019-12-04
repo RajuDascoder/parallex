@@ -1,0 +1,34 @@
+
+.parallex{
+	background-image: url('../img/01.jpg');
+	overflow: hidden;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 302px;
+	padding-bottom: 10px;
+	background-attachment: fixed;
+	}
+	.parallex1{
+	background-image: url('../img/02.jpg');
+	overflow: hidden;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 402px;
+	padding-bottom: 10px;
+	background-attachment: fixed;
+	clear:both;
+	}
+	
+.parallex2{
+	background-image: url('../img/03.jpg');
+	overflow: hidden;
+	height: 500px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 402px;
+	padding-bottom: 10px;
+	background-attachment: fixed;
+	clear:both;
+	}	
